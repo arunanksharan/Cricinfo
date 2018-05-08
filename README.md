@@ -1,1 +1,1 @@
-The repository is a collection of articles on different cricketers' careers. The data has been scraped from Cricinfo.com and basic visualisation and exploratory data analysis of cricketers's career is being performed.
+The repository is a collection of articles on different cricketers' careers. The data has been scraped from Cricinfo.com and basic visualisation and exploratory data analysis of cricketers' career is being performed.
